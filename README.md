@@ -4,7 +4,7 @@
 
 ## Convert BTC to RBTC using the PowPeg
 
-- About the PowPeg: https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec  
+- About the PowPeg: https://developers.rsk.co/rsk/architecture/powpeg  
 
 - Mainnet PowPeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet  
 
