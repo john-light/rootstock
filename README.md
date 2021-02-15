@@ -2,6 +2,12 @@
 
 > Note: Inclusion of an app or service on this page does not constitute an endorsement by the maintainer.  
 
+## Convert BTC to RBTC using the PowPeg
+
+- About the PowPeg: https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec  
+
+- Mainnet PowPeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet  
+
 ## Buy RBTC
 
 - Bitfinex: https://www.bitfinex.com  
@@ -13,6 +19,8 @@
 - Liquality: https://liquality.io  
 
 ## Testnet  
+
+- Testnet PowPeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/testnet  
 
 - tRBTC faucet: https://faucet.testnet.rsk.co  
 
