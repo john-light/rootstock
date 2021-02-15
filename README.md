@@ -59,8 +59,6 @@
 - Gnosis Multisig: https://gnosis.rsk.co  
   - Wallet factory contract address: `0xbda3deb48Ee37965B7D88EAc0a0E204bC2427c06`  
 
-- Liquality: https://liquality.io  
-
 - Math Wallet: https://mathwallet.org/en-us  
 
 - MyCrypto: https://download.mycrypto.com  
@@ -69,7 +67,9 @@
 
 - rWallet: https://developers.rsk.co/wallet/rwallet  
 
-#### Web3 interface
+#### Web3-enabled (for use with RSK dapps)
+
+- Liquality: https://liquality.io  
 
 - MetaMask: https://metamask.io  
 
