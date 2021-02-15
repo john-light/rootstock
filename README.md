@@ -2,11 +2,11 @@
 
 > Note: Inclusion of an app or service on this page does not constitute an endorsement by the maintainer.  
 
-## Convert BTC to RBTC using the PowPeg
+## Convert BTC to RBTC using the Powpeg
 
-- About the PowPeg: https://developers.rsk.co/rsk/architecture/powpeg  
+- About the Powpeg: https://developers.rsk.co/rsk/architecture/powpeg  
 
-- Mainnet PowPeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet  
+- Mainnet Powpeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet  
 
 ## Buy RBTC
 
@@ -20,7 +20,7 @@
 
 ## Testnet  
 
-- Testnet PowPeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/testnet  
+- Testnet Powpeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/testnet  
 
 - tRBTC faucet: https://faucet.testnet.rsk.co  
 
