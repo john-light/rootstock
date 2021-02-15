@@ -2,13 +2,13 @@
 
 > Note: Inclusion of an app or service on this page does not constitute an endorsement by the maintainer.  
 
-## Convert BTC to RBTC using the Powpeg
+## Convert BTC to/from RBTC using the Powpeg
 
 - About the Powpeg: https://developers.rsk.co/rsk/architecture/powpeg  
 
 - Mainnet Powpeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet  
 
-## Buy RBTC
+## Buy/sell RBTC
 
 - Bitfinex: https://www.bitfinex.com  
 
@@ -16,7 +16,7 @@
 
 - KuCoin: https://www.kucoin.com  
 
-- Liquality: https://liquality.io  
+- Liquality: https://liquality.io/swap  
 
 ## Testnet  
 
@@ -83,13 +83,7 @@
 
 - Trezor: https://trezor.io/coins/  
 
-## Apps  
-
-### Finance  
-
-- Money On Chain: https://alpha.moneyonchain.com  
-
-- Sovryn Lend: https://live.sovryn.app/lend  
+## Dapps  
 
 ### Exchange  
 
@@ -100,6 +94,12 @@
 - Ethereum Token Bridge: https://tokenbridge.rsk.co  
 
 - TEX: https://tex.moneyonchain.com  
+
+### Finance  
+
+- Money On Chain: https://alpha.moneyonchain.com  
+
+- Sovryn Lend: https://live.sovryn.app/lend  
 
 ### Identity
 
