@@ -152,8 +152,6 @@
 
 - The Complete Full Stack dApp Guide on RSK: https://developers.rsk.co/guides/full-stack-dapp-on-rsk/part1-overview  
 
-- 2 way peg guide, federation bridge: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet/
-
 ### Tools
 
 - GetBlock: https://getblock.io  
