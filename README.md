@@ -14,6 +14,8 @@
 
 - Coinswitch: https://coinswitch.rsk.co  
 
+- FastBTC Relay: https://wiki.sovryn.app/en/sovryn-dapp/fast_btc  
+
 - KuCoin: https://www.kucoin.com  
 
 - Liquality: https://liquality.io/swap  
