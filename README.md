@@ -119,6 +119,9 @@
 - DOC: https://moneyonchain.com/doc-bitcoin-stablecoin  
   - Contract address: `0xe700691da7b9851f2f35f8b8182c69c53ccad9db`  
 
+- ETHs:
+  - Contract address `0x1D931BF8656D795e50Ef6d639562C5bD8AC2b78F`  
+
 - rDAI: 
   - Contract address: `0x6b1a73d547f4009a26b8485b63d7015d248ad406`  
 
@@ -140,11 +143,20 @@
 - rUSDC:
   - Contract address: `0x1bda44fda023f2af8280a16fd1b01d1a493ba6c4`  
 
+- USDCs:
+  - Contract address: `0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`  
+
 - rUSDT:
   - Contract address: `0xef213441a85df4d7acbdae0cf78004e1e486bb96`  
+  
+- USDTs:
+  - Contract address: `0xdac17f958d2ee523a2206206994597c13d831ec7`   
 
 - SOV: https://sovryn.app/blog/sov-tokenomics.html    
   - Contract address: `0xEFc78fc7d48b64958315949279Ba181c2114ABBd`
+
+- xUSD:
+  - Contract address: `0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F`  
 
 ## Developer resources
 
