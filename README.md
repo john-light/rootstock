@@ -12,6 +12,8 @@
 
 - Bitfinex: https://www.bitfinex.com  
 
+- Exolix: https://exolix.com/  
+
 - FastBTC Relay: https://wiki.sovryn.app/en/sovryn-dapp/fast_btc  
 
 - KuCoin: https://www.kucoin.com  
