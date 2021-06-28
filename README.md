@@ -30,6 +30,8 @@
 
 - tRSK stats: https://stats.testnet.rsk.co  
 
+- tSOV faucet: https://faucet.sovryn.app  
+
 ## Full node implementations
 
 - RSKj: https://developers.rsk.co/rsk/node  
