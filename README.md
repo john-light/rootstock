@@ -10,6 +10,8 @@
 
 ## Buy/sell RBTC
 
+- Bisq: https://bisq.network  
+
 - Bitfinex: https://www.bitfinex.com  
 
 - Exolix: https://exolix.com  
