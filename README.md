@@ -2,6 +2,14 @@
 
 > Note: Inclusion of an app or service on this page does not constitute an endorsement by the maintainer.  
 
+## General information
+
+RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
+
+- Main project website: https://www.rsk.co  
+
+- Similarities and differences between RSK and Ethereum: https://medium.com/iovlabs-innovation-stories/similarities-and-differences-between-rsk-and-ethereum-e480655eff37  
+
 ## Convert BTC to/from RBTC using the Powpeg
 
 - About the Powpeg: https://developers.rsk.co/rsk/architecture/powpeg  
