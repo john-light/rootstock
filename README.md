@@ -30,6 +30,8 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Liquality: https://liquality.io/swap  
 
+- LNSOV Bridge: https://lnsov.vercel.app  
+
 ## Testnet  
 
 - Testnet Powpeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/testnet  
