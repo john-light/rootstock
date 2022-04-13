@@ -30,7 +30,13 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Liquality: https://liquality.io/swap  
 
-- LNSOV Bridge: https://lnsov.vercel.app  
+- Marduk: https://marduk.exchange  
+
+## Bridges
+
+- Ethereum Token Bridge: https://tokenbridge.rsk.co  
+
+- Sovryn bridge: https://live.sovryn.app/cross-chain/deposit
 
 ## Testnet  
 
@@ -85,11 +91,13 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 #### Web3-enabled (for use with RSK dapps)
 
+- Frame: https://frame.sh  
+
 - Liquality: https://liquality.io  
 
 - MetaMask: https://metamask.io  
 
-- Nifty: https://www.poa.network/for-users/nifty-wallet  
+- Nifty ([Discontinued](https://www.poa.network/v/master-1/for-users/nifty-wallet)): https://www.poa.network/for-users/nifty-wallet  
 
 - Portis: https://www.portis.io  
 
@@ -99,15 +107,23 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Trezor: https://trezor.io/coins/  
 
+### Institutional custody
+
+- Fireblocks: https://www.fireblocks.com/blog/rsk-x-fireblocks
+
 ## Dapps  
+
+### Collectibles
+
+- Carnaval: https://www.carnaval.art
+
+- Watafan: https://info.watafan.com
 
 ### Exchange  
 
 - RSKSwap: https://rskswap.com  
 
 - Sovryn Trade: https://live.sovryn.app  
-
-- Ethereum Token Bridge: https://tokenbridge.rsk.co  
 
 - TEX: https://tex.moneyonchain.com  
 
@@ -129,6 +145,9 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 #### Fungible tokens
 
+- BNBs:
+  - Contract address: `0x6D9659bdF5b1A1dA217f7BbAf7dBAF8190E2e71B`  
+
 - BPRO: https://moneyonchain.com/bpro-income-for-bitcoin-holders  
   - Contract address: `0x440cd83C160de5C96DDb20246815EA44C7Abbca8`
 
@@ -136,7 +155,16 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
   - Contract address: `0xe700691da7b9851f2f35f8b8182c69c53ccad9db`  
 
 - ETHs:
-  - Contract address `0x1D931BF8656D795e50Ef6d639562C5bD8AC2b78F`  
+  - Contract address: `0x1D931BF8656D795e50Ef6d639562C5bD8AC2b78F`  
+
+- FISH: https://babelfish.gitbook.io/the-babelfish-gitbook/tokens/sales   
+  - Contract address: `0x055A902303746382FBB7D18f6aE0df56eFDc5213`  
+
+- MOC:
+  - Contract address: `0x9ac7fe28967b30e3a4e6e03286d715b42b453d10`  
+
+- MYNT: https://wiki.sovryn.app/en/sovryn-dapp/subprotocols/mynt
+  - Contract address: `0x2e6B1d146064613E8f521Eb3c6e65070af964EbB`
 
 - rDAI: 
   - Contract address: `0x6b1a73d547f4009a26b8485b63d7015d248ad406`  
@@ -171,7 +199,7 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 - SOV: https://sovryn.app/blog/sov-tokenomics.html    
   - Contract address: `0xEFc78fc7d48b64958315949279Ba181c2114ABBd`
 
-- xUSD:
+- XUSD:
   - Contract address: `0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F`  
 
 ## Developer resources
