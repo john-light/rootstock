@@ -4,9 +4,9 @@
 
 ## General information
 
-RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
+Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
-- Main project website: https://www.rsk.co  
+- Main project website: https://www.rootstock.io
 
 - Similarities and differences between RSK and Ethereum: https://medium.com/iovlabs-innovation-stories/similarities-and-differences-between-rsk-and-ethereum-e480655eff37  
 
@@ -116,6 +116,8 @@ RSK is a bitcoin sidechain supporting EVM-compatible smart contracts.
 ### Collectibles
 
 - Carnaval: https://www.carnaval.art
+
+- Little Drawlings: https://littledrawlings.com
 
 - Watafan: https://info.watafan.com
 
