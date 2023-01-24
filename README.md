@@ -1,4 +1,4 @@
-# RSK resources
+# Rootstock resources
 
 > Note: Inclusion of an app or service on this page does not constitute an endorsement by the maintainer.  
 
@@ -35,6 +35,8 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 ## Bridges
 
 - Ethereum Token Bridge: https://tokenbridge.rsk.co  
+
+- Multichain: https://app.multichain.org/#/router
 
 - Sovryn bridge: https://live.sovryn.app/cross-chain/deposit
 
