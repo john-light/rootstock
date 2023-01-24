@@ -113,7 +113,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Fireblocks: https://www.fireblocks.com/blog/rsk-x-fireblocks
 
-## Dapps  
+## Apps  
 
 ### Collectibles
 
