@@ -91,7 +91,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - rWallet: https://developers.rsk.co/wallet/rwallet  
 
-#### Web3-enabled (for use with RSK dapps)
+#### Web3-native (for use with RSK dapps)
 
 - Frame: https://frame.sh  
 
@@ -125,15 +125,19 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 ### Exchange  
 
-- RSKSwap: https://rskswap.com  
+- RSKSwap ([Discontinued](https://twitter.com/rootstock_io/status/1582423882249949184)): https://rskswap.com  
 
-- Sovryn Trade: https://live.sovryn.app  
+- Sovryn Margin: https://live.sovryn.app/trade
+
+- Sovryn Spot: https://live.sovryn.app/spot  
 
 - TEX: https://tex.moneyonchain.com  
 
 ### Finance  
 
 - Money On Chain: https://alpha.moneyonchain.com  
+
+- Sovryn Borrow: https://live.sovryn.app/borrow  
 
 - Sovryn Lend: https://live.sovryn.app/lend  
 
@@ -205,6 +209,9 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - XUSD:
   - Contract address: `0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F`  
+
+- ZUSD:
+  - Contract address: `0xdB107FA69E33f05180a4C2cE9c2E7CB481645C2d`    
 
 ## Developer resources
 
