@@ -16,6 +16,8 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Mainnet Powpeg guide: https://developers.rsk.co/rsk/rbtc/conversion/networks/mainnet  
 
+- Popwpeg app: https://app.2wp.rootstock.io
+
 ## Buy/sell RBTC
 
 - Bisq: https://bisq.network  
