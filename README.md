@@ -32,8 +32,6 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Liquality: https://liquality.io/swap  
 
-- Marduk: https://marduk.exchange  
-
 ## Bridges
 
 - Ethereum Token Bridge: https://tokenbridge.rsk.co  
@@ -80,8 +78,6 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Cobo: https://cobo.com  
 
-- Defiant: https://defiantapp.tech/home  
-
 - Gnosis Multisig: https://gnosis.rsk.co  
   - Wallet factory contract address: `0xbda3deb48Ee37965B7D88EAc0a0E204bC2427c06`  
 
@@ -95,13 +91,17 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 #### Web3-native (for use with RSK dapps)
 
+- Defiant: https://defiantapp.tech/home  
+
+- Enkrypt: https://www.enkrypt.com  
+
+- Exodus: https://www.exodus.com/web3-wallet  
+
 - Frame: https://frame.sh  
 
 - Liquality: https://liquality.io  
 
 - MetaMask: https://metamask.io  
-
-- Nifty ([Discontinued](https://www.poa.network/v/master-1/for-users/nifty-wallet)): https://www.poa.network/for-users/nifty-wallet  
 
 - Portis: https://www.portis.io  
 
@@ -127,7 +127,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 ### Exchange  
 
-- RSKSwap ([Discontinued](https://twitter.com/rootstock_io/status/1582423882249949184)): https://rskswap.com  
+- Sovryn Convert: https://sovryn.app/convert
 
 - Sovryn Margin: https://live.sovryn.app/trade
 
@@ -142,6 +142,8 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 - Sovryn Borrow: https://live.sovryn.app/borrow  
 
 - Sovryn Lend: https://live.sovryn.app/lend  
+
+- Sovryn Zero: https://sovryn.app
 
 ### Identity
 
@@ -159,7 +161,10 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
   - Contract address: `0x6D9659bdF5b1A1dA217f7BbAf7dBAF8190E2e71B`  
 
 - BPRO: https://moneyonchain.com/bpro-income-for-bitcoin-holders  
-  - Contract address: `0x440cd83C160de5C96DDb20246815EA44C7Abbca8`
+  - Contract address: `0x440cd83C160de5C96DDb20246815EA44C7Abbca8`  
+
+- DLLR: https://sovryn.com/sovryn-dollar
+  - Contract address: `0xc1411567d2670e24d9C4DaAa7CdA95686e1250AA`  
 
 - DOC: https://moneyonchain.com/doc-bitcoin-stablecoin  
   - Contract address: `0xe700691da7b9851f2f35f8b8182c69c53ccad9db`  
@@ -171,10 +176,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
   - Contract address: `0x055A902303746382FBB7D18f6aE0df56eFDc5213`  
 
 - MOC:
-  - Contract address: `0x9ac7fe28967b30e3a4e6e03286d715b42b453d10`  
-
-- MYNT: https://wiki.sovryn.app/en/sovryn-dapp/subprotocols/mynt
-  - Contract address: `0x2e6B1d146064613E8f521Eb3c6e65070af964EbB`
+  - Contract address: `0x9ac7fe28967b30e3a4e6e03286d715b42b453d10`    
 
 - rDAI: 
   - Contract address: `0x6b1a73d547f4009a26b8485b63d7015d248ad406`  
@@ -206,7 +208,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 - USDTs:
   - Contract address: `0xdac17f958d2ee523a2206206994597c13d831ec7`   
 
-- SOV: https://sovryn.app/blog/sov-tokenomics.html    
+- SOV: https://sovryn.com/all-things-sovryn/5-amazing-benefits-of-staking-sov  
   - Contract address: `0xEFc78fc7d48b64958315949279Ba181c2114ABBd`
 
 - XUSD:
