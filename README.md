@@ -147,7 +147,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 ### Finance  
 
-- Money On Chain: https://alpha.moneyonchain.com
+- Money On Chain: https://dapp.moneyonchain.com
 
 - Sovryn Borrow: https://live.sovryn.app/borrow
 
