@@ -80,6 +80,8 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 
 - Cobo: https://cobo.com   
 
+- Exodus: https://www.exodus.com
+
 - Gnosis Multisig: https://gnosis.rsk.co  
   - Wallet factory contract address: `0xbda3deb48Ee37965B7D88EAc0a0E204bC2427c06`  
 
@@ -98,6 +100,8 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 - Defiant: https://defiantapp.tech/home 
 
 - Enkrypt: https://www.enkrypt.com
+
+- Exodus: https://www.exodus.com/web3-wallet
 
 - Frame: https://frame.sh  
 
@@ -217,7 +221,7 @@ Rootstock is a bitcoin sidechain supporting EVM-compatible smart contracts.
 - USDTs:
   - Contract address: `0xdac17f958d2ee523a2206206994597c13d831ec7`
 
-- SOV: https://sovryn.app/blog/sov-tokenomics.html    
+- SOV: https://sovryn.com/all-things-sovryn/5-amazing-benefits-of-staking-sov   
   - Contract address: `0xEFc78fc7d48b64958315949279Ba181c2114ABBd`
 
 - XUSD:
